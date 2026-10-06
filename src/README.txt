@@ -1,3 +1,6 @@
+note: this was written back in 2024  
+
+
 Small Overview
 
 intro
@@ -23,5 +26,3 @@ usage
 
 Τhanks for using,
 enjoy, 
-
-the programming team.
